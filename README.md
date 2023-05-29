@@ -1,4 +1,5 @@
-[![Watch the video]([https://i.imgur.com/vKb2F1B.png](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d78888102686225.624f6489946d4.gif))]
+![Uploading d78888102686225.624f6489946d4.gif…]()
+
 <h1 align="center">Hi 👋, I'm Xuân Trường</h1>
 <h3 align="center">A passionate frontend developer from Vietnamese</h3>
 
