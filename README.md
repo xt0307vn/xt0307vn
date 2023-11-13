@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d78888102686225.624f6489946d4.gif" width="50%" >
+  <img src="https://amplify.nabshow.com/wp-content/uploads/sites/12/2022/02/AI-deeplearning.gif" width="100%" >
 </p>
 
 
